@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Guides
 uid: 1eb98b1a-acc1-36c3-1713-1feb52c974e1
 ---
