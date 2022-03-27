@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cc4321dc-fcc4-3004-0b83-d984c96cdd10
 resourcetype: Document
 title: 11.401F15 How to Prepare and Deliver an Effective Briefing
 uid: 4236024d-e3cc-2270-7917-30c6bd5cc381

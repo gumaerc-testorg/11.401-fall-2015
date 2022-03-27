@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Guides
 parent_type: CourseSection
+parent_uid: 1eb98b1a-acc1-36c3-1713-1feb52c974e1
 resourcetype: Document
 title: 11.401F15 Session 23 Study Guide
 uid: 48fc8379-b5e8-fb62-e73f-05fdc815504b

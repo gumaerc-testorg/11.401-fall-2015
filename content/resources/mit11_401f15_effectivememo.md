@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cc4321dc-fcc4-3004-0b83-d984c96cdd10
 resourcetype: Document
 title: '11.401F15 Effective Professional Writing: The Memo'
 uid: 24c795bb-0baa-7bbf-a272-a2cc7905132f

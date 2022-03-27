@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cc4321dc-fcc4-3004-0b83-d984c96cdd10
 resourcetype: Document
 title: 11.401F15 Effective Professional Writing
 uid: 27382f59-521f-a0c0-0b0c-5d1bd015ebe3
