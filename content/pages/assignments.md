@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: cc4321dc-fcc4-3004-0b83-d984c96cdd10
 ---
@@ -20,25 +21,25 @@ The midterm was three short essay questions about planning and community develop
 Final Assignment - Team Project Briefing
 ----------------------------------------
 
-[Guidelines (PDF)]({{< baseurl >}}/resources/mit11_401f15_finalassign)
+{{< resource_link 1ad91a3a-05f0-ba23-c0f2-3c1c229ea2b9 "Guidelines (PDF)" >}}
 
 ### Resources on Writing Memos
 
-[Effective Professional Writing: Preparing for the Memo (PDF)]({{< baseurl >}}/resources/mit11_401f15_effective)
+{{< resource_link 27382f59-521f-a0c0-0b0c-5d1bd015ebe3 "Effective Professional Writing: Preparing for the Memo (PDF)" >}}
 
-[Effective Professional Writing: The Memo (PDF)]({{< baseurl >}}/resources/mit11_401f15_effectivememo) (Courtesy of Xavier de Souza Briggs. Used with permission.)
+{{< resource_link 24c795bb-0baa-7bbf-a272-a2cc7905132f "Effective Professional Writing: The Memo (PDF)" >}} (Courtesy of Xavier de Souza Briggs. Used with permission.)
 
-[Checklist for Writing Action Memoranda (PDF)]({{< baseurl >}}/resources/mit11_401f15_checklist) (Courtesy of Xavier de Souza Briggs. Used with permission.)
+{{< resource_link 054a464e-f773-9639-02ac-a8533e14b4cc "Checklist for Writing Action Memoranda (PDF)" >}} (Courtesy of Xavier de Souza Briggs. Used with permission.)
 
-[Guidelines for Effective Informational Memos (PDF)]({{< baseurl >}}/resources/mit11_401f15_guidelines) (Courtesy of Cherie Miot Abbanat. Used with permission.)
+{{< resource_link cb9bdde9-1775-3e82-ec55-0a07b203c542 "Guidelines for Effective Informational Memos (PDF)" >}} (Courtesy of Cherie Miot Abbanat. Used with permission.)
 
 ### Sample Memos
 
 *   "[Winston Churchill on "Brevity"](http://www.leadingvisually.com/2012/11/churchill-on-brevity.html)."
-*   ["Best Practices for Tight-Market Cities Considering Expressway Removal." (PDF)]({{< baseurl >}}/resources/mit11_401f15_bestpractices) - Sample effective student memo. (Courtesy of MIT students. Used with permission.)
+*   {{< resource_link 879305f8-6ef0-42bf-212a-3d7900ddf2d1 "\"Best Practices for Tight-Market Cities Considering Expressway Removal.\" (PDF)" >}} - Sample effective student memo. (Courtesy of MIT students. Used with permission.)
 
 _Resources on Briefings_ (Courtesy of Xavier de Souza Briggs. Used with permission.)
 
-[How to Prepare and Deliver an Effective Briefing (PDF)]({{< baseurl >}}/resources/mit11_401f15_howtoprepare)
+{{< resource_link 4236024d-e3cc-2270-7917-30c6bd5cc381 "How to Prepare and Deliver an Effective Briefing (PDF)" >}}
 
-[Sample Briefing Slides with Commentary (PDF)]({{< baseurl >}}/resources/mit11_401f15_samplebrief)
+{{< resource_link db9f0656-ccb6-2d26-1182-5c918fbefdcc "Sample Briefing Slides with Commentary (PDF)" >}}

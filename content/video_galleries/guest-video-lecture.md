@@ -3,6 +3,7 @@ content_type: video_gallery
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Guest Video Lecture
 uid: fac55f59-0f19-03f4-2dd7-3cf8a36d59f4
 videos:
