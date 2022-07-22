@@ -6,6 +6,7 @@ file: /courses/11-401-introduction-to-housing-community-and-economic-development
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 11.401F15 Best Practices for Tight-Market Cities Considering Expressway R
 uid: 879305f8-6ef0-42bf-212a-3d7900ddf2d1
 ---
 This resource contains information regarding introduction to housing, community, and economic development.
-

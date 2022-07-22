@@ -6,6 +6,7 @@ file: /courses/11-401-introduction-to-housing-community-and-economic-development
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 11.401F15 Checklist for Writing Action Memoranda
 uid: 054a464e-f773-9639-02ac-a8533e14b4cc
 ---
 This resource contains information regarding introduction to housing, community, and economic development.
-

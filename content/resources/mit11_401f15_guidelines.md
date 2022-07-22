@@ -6,6 +6,7 @@ file: /courses/11-401-introduction-to-housing-community-and-economic-development
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 11.401F15 Effective Informational Memos
 uid: cb9bdde9-1775-3e82-ec55-0a07b203c542
 ---
 This resource contains information regarding introduction to housing, community, and economic development.
-

@@ -6,6 +6,7 @@ file: /courses/11-401-introduction-to-housing-community-and-economic-development
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '11.401F15 Effective Professional Writing: The Memo'
 uid: 24c795bb-0baa-7bbf-a272-a2cc7905132f
 ---
 This resource contains information regarding introduction to housing, community, and economic development.
-
