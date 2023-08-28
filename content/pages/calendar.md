@@ -112,7 +112,7 @@ Housing as a market good: Gentrification and fair housing.
 
 Public housing, income concentration, and mixed-income housing.
 
-Guest: [Larry Vale](https://dusp.mit.edu/faculty/lawrence-vale), Ford Professor of Urban Design and Planning at MIT.
+Guest: [Larry Vale](https://dusp.mit.edu/people/lawrence-vale), Ford Professor of Urban Design and Planning at MIT.
 
 {{< tdclose >}}{{< tdopen >}}
 Detailed team problem statement due one day after Session 14
@@ -164,7 +164,7 @@ Guest: [Paul Osterman](http://web.mit.edu/osterman/www/), member of the Departme
 
 Entrepreneurship and business development.
 
-Guest: [Karl Seidman](https://dusp.mit.edu/faculty/karl-seidman), Senior Lecturer in Economic Development, MPP Harvard.
+Guest: [Karl Seidman](https://ilp.mit.edu/node/52150), Senior Lecturer in Economic Development, MPP Harvard.
 
 {{< tdclose >}}{{< tdopen >}}
  
