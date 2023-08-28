@@ -9,7 +9,7 @@ ocw_type: CourseSection
 parent_title: Readings
 parent_type: CourseSection
 parent_uid: b6f78d12-65ab-d167-4bea-c85dbc0ae277
-title: Recommend Readings
+title: Recommended Readings
 uid: d8ad55f0-3b64-4474-b2fb-60b7208bf6b6
 ---
 \[JD\] = DeFilippis, James, and Susan Saegert. *The Community Development Reader.* Routledge, 2012. ISBN: 97804155007769. \[Preview with [Google Books](http://books.google.com/books?id=uwTC62wehCMC&pg=PAfrontcover)\]
@@ -365,7 +365,7 @@ None
 {{< tdclose >}}{{< tdopen >}}
 Job quality and upgrading
 {{< tdclose >}}{{< tdopen >}}
-The Apollo Alliance and Green for All with Center for American Progress and Center on Wisonsin Strategy. ["Green-Collar Jobs in America's Cities." (PDF - 1.5MB)](http://cdn.americanprogress.org/wp-content/uploads/issues/2008/03/pdf/green_collar_jobs.pdf)
+The Apollo Alliance and Green for All with Center for American Progress and Center on Wisonsin Strategy. ["Green-Collar Jobs in America's Cities." (PDF)](https://cdn.americanprogress.org/wp-content/uploads/issues/2008/03/pdf/green_collar_jobs.pdf?_ga=2.62949927.904427454.1691157764-787220336.1691157764)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -400,20 +400,20 @@ Weissbourd, and Muro. "[Metropolitan Business Plans: A New Approach to Economic 
 
 Clark, et al. *The Oxford Handbook of Economic Geography*. Oxford University Press, 2003. ISBN: 9780199250837.
 
-Does Manufacturing Matter?   
+Does Manufacturing Matter?    
 Helper, Krueger, and Wial. ["Why Does Manufacturing Matter? Which Manufacturing Matters? A Policy Framework." (PDF - 1.9MB)](https://www.brookings.edu/wp-content/uploads/2016/06/0222_manufacturing_helper_krueger_wial.pdf) The Brookings Institution, 2012.
 
-Do We Need a Manufacturing Policy?   
+Do We Need a Manufacturing Policy?    
 Romer. "[Do Manufacturers Need Special Treatment?](http://www.nytimes.com/2012/02/05/business/do-manufacturers-need-special-treatment-economic-view.html)," *The New York Times*, February 4, 2012.
 
 Rebuttal, Prestowitz. "[Why Don't Economists Get It On Manufacturing?](http://foreignpolicy.com/2012/02/06/why-dont-economists-get-it-on-manufacturing)" *Foreign Policy*, February 2012.
 
-What skills are needed?   
+What skills are needed?    
 Davidson. "[Skills Don't Pay the Bills](http://www.nytimes.com/2012/11/25/magazine/skills-dont-pay-the-bills.html)," *The New York Times*, November 20, 2012.
 
 "[Making it in America](http://www.theatlantic.com/magazine/archive/2012/01/making-it-in-america/308844/)." *The Atlantic*, January-February 2012.
 
-What does this have to do with American Competitiveness?   
+What does this have to do with American Competitiveness?    
 Pisano, and Shih. "[Restoring American Competitiveness](https://hbr.org/2009/07/restoring-american-competitiveness/ar/1)." *Harvard Business Review*, 2009.
 
 Duhigg. "[How the U.S. Lost Out on iPhone Work](http://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html?mtrref=www.google.co.in&gwh=B042496192FFFECA9E2431047C2DDCEC&gwt=pay)," *The New York Times,* January 21, 2012.
