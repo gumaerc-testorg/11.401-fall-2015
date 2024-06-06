@@ -339,7 +339,7 @@ Siegel, and Seidman. ["The Economic Development and Workforce Development System
 
 "[The Field Guide to Investing in a Resilient Economy: Cleveland's Evergreen Cooperatives](http://www.csrwire.com/blog/posts/364-the-field-guide-to-investing-in-a-resilient-economy-clevelands-evergreen-cooperatives)." Capital Institute, 2011.
 
-LA Apollo Alliance campaign for the City of LA ["The Good, Green, Safe Jobs: The Los Angeles Green Retrofit and Workforce Program." (PDF)](http://urbanhabitat.org/files/LAGreenJobs.pdf)
+LA Apollo Alliance campaign for the City of LA ["Good, Green, Safe Jobs: The Los Angeles Green Retrofit and Workforce Program." (PDF)](https://www.reimaginerpe.org/files/images/LAGreenJobs%201.jpg)
 
 City of LA Green Retrofit and Workforce Program fact sheet.
 
@@ -427,7 +427,7 @@ Course review
 
 MIT CoLab, et al. ["Development Study for the Bronx Community Development Initiative." (PDF - 5.6MB)](https://www.colab.mit.edu/resources-1/2013/10/1/development-study-for-the-bronx-cooperative-development-initiative-a-model-for-economic-transformation) 2012.
 
-Community Strategy Lab. ["Caring for Today, Planning for Tomorrow." (PDF)](http://www.caregiving.org/pdf/resources/nacguide.pdf) 2014. Read Introduction and Summary, pp. 11–39. \[Brooklyn Interfaith hospital reuse project\].
+Community Strategy Lab. ["Caring for Today, Planning for Tomorrow." (PDF)](https://static1.squarespace.com/static/59e749467131a5e036c15d82/t/5ebd87d2879bb66cc1b49187/1589479383810/INTERFAITH+REPORT+-+Caring+for+today+planning+for+tomorrow+-+Nov+2014.pdf) 2014. Read Introduction and Summary, pp. 11–39. \[Brooklyn Interfaith hospital reuse project\].
 
 {{< tdclose >}}{{< tdopen >}}
  
