@@ -437,7 +437,7 @@ Community Strategy Lab. ["Caring for Today, Planning for Tomorrow." (PDF)](https
 Final team briefings
 {{< tdclose >}}{{< tdopen >}}
 
-Briggs, and Thompson. "[Deep Democracy is not Meetings that Last Forever: Community Development Next](http://www.whatworksforamerica.org/ideas/deep-democracy-is-not-meetings-that-last-forever-community-development-next/#.VtW-a1OAOkp)." Investing in What Works (SF: Federal Reserve Bank of San Francisco, 2012).
+Briggs, and Thompson. "[Deep Democracy is not Meetings that Last Forever: Community Development Next](https://www.frbsf.org/wp-content/uploads/sites/3/briggs-thompson.pdf)." Investing in What Works (SF: Federal Reserve Bank of San Francisco, 2012).
 
 Friedmann, John. "[The Good City: In Defense of Utopian Thinking](http://dx.doi.org/10.1111/1468-2427.00258)." *International Journal of Urban and Regional Research* 24, no. 2 (2000): 460–72.
 
