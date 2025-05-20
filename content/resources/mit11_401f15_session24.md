@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding introduction to housing,
   community, and economic development.
-file: /ol-ocw-studio-app/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/6e43137cbaf8a5c92bdb46fbe540d6ef_MIT11_401F15_Session24.pdf
+file: /courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/6e43137cbaf8a5c92bdb46fbe540d6ef_MIT11_401F15_Session24.pdf
 file_size: 641819
 file_type: application/pdf
 learning_resource_types: []
