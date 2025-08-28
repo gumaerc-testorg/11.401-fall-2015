@@ -146,7 +146,7 @@ Keyes, Langley C., Alex Schwartz, et al. ["Networks and Nonprofits: Opportunitie
 Governance at multiple scales (neighborhood, city, region)
 {{< tdclose >}}{{< tdopen >}}
 
-Choi, Laura. "[An Uneven Housing Recovery: Implications for Community Development](http://www.frbsf.org/community-development/blog/uneven-housing-market-recovery-low-moderate-income/)." 2013.
+Choi, Laura. "[An Uneven Housing Recovery: Implications for Community Development](https://www.frbsf.org/research-and-insights/blog/sf-fed-blog/2013/08/22/uneven-housing-market-recovery-low-moderate-income/)." 2013.
 
 \[JD\] Kubisch, Anne C., Patricia Auspos, et al. "Strengthening the Connections between Communities and External Resources."
 
@@ -316,7 +316,7 @@ The Editorial Board. "[Fair Housing Collision in Westchester](http://www.nytimes
 
 Turner, Margery, et al. ["Housing Discrimination Against Racial and Ethnic Minorities 2012." (PDF - 2.4MB)](https://www.huduser.gov/portal/Publications/pdf/HUD-514_HDS2012_execsumm.pdf) *Executive Summary*, 2013.
 
-"[HUD AFFH Assessment Tool Option A](http://www.huduser.org/portal/affht_pt.html#affhassess-tab)."
+"[HUD AFFH Assessment Tool Option A](https://archives.huduser.gov/portal/sites/default/files/pdf/AFFH_AssessmentTool_OptionA.pdf)."
 
 "[Texas Department of Housing & Community Affairs v. Inclusive Communities Project Inc](http://harvardlawreview.org/2015/11/texas-department-of-housing-community-affairs-v-inclusive-communities-project/)." *Harvard Law Review*, 135 S. Ct. 2507 (2015).
 
@@ -400,20 +400,20 @@ Weissbourd, and Muro. "[Metropolitan Business Plans: A New Approach to Economic 
 
 Clark, et al. *The Oxford Handbook of Economic Geography*. Oxford University Press, 2003. ISBN: 9780199250837.
 
-Does Manufacturing Matter?    
+Does Manufacturing Matter?     
 Helper, Krueger, and Wial. ["Why Does Manufacturing Matter? Which Manufacturing Matters? A Policy Framework." (PDF - 1.9MB)](https://www.brookings.edu/wp-content/uploads/2016/06/0222_manufacturing_helper_krueger_wial.pdf) The Brookings Institution, 2012.
 
-Do We Need a Manufacturing Policy?    
+Do We Need a Manufacturing Policy?     
 Romer. "[Do Manufacturers Need Special Treatment?](http://www.nytimes.com/2012/02/05/business/do-manufacturers-need-special-treatment-economic-view.html)," *The New York Times*, February 4, 2012.
 
 Rebuttal, Prestowitz. "[Why Don't Economists Get It On Manufacturing?](http://foreignpolicy.com/2012/02/06/why-dont-economists-get-it-on-manufacturing)" *Foreign Policy*, February 2012.
 
-What skills are needed?    
+What skills are needed?     
 Davidson. "[Skills Don't Pay the Bills](http://www.nytimes.com/2012/11/25/magazine/skills-dont-pay-the-bills.html)," *The New York Times*, November 20, 2012.
 
 "[Making it in America](http://www.theatlantic.com/magazine/archive/2012/01/making-it-in-america/308844/)." *The Atlantic*, January-February 2012.
 
-What does this have to do with American Competitiveness?    
+What does this have to do with American Competitiveness?     
 Pisano, and Shih. "[Restoring American Competitiveness](https://hbr.org/2009/07/restoring-american-competitiveness/ar/1)." *Harvard Business Review*, 2009.
 
 Duhigg. "[How the U.S. Lost Out on iPhone Work](http://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html?mtrref=www.google.co.in&gwh=B042496192FFFECA9E2431047C2DDCEC&gwt=pay)," *The New York Times,* January 21, 2012.
