@@ -35,7 +35,7 @@ Final Assignment - Team Project Briefing
 
 ### Sample Memos
 
-*   "[Winston Churchill on "Brevity"](http://www.leadingvisually.com/2012/11/churchill-on-brevity.html)."
+*   "{{% resource_link "a3e8c0ff-9441-4e56-9136-89a50a91bc73" "Winston Churchill on \"Brevity\"" %}}."
 *   {{% resource_link 879305f8-6ef0-42bf-212a-3d7900ddf2d1 "\"Best Practices for Tight-Market Cities Considering Expressway Removal.\" (PDF)" %}} - Sample effective student memo. (Courtesy of MIT students. Used with permission.)
 
 _Resources on Briefings_ (Courtesy of Xavier de Souza Briggs. Used with permission.)
